@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shammah94
 - 👀 I’m interested in programming and building mobile and web apps
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Pirple
+- 💞️ I’m looking to collaborate on beginner Python-based projects
 - 📫 How to reach me:
 
 <!---
